@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Remove Gmail Categories",
+  "version": "1.0",
+  "description": "Removes the labels Social, Promotions, Updates, and Forums from the Gmail Move dropdown",
+  "permissions": [
+    "https://mail.google.com/*"
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://mail.google.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
