@@ -6,7 +6,11 @@
 
 A free browser extension that removes the labels Social, Promotions, Updates, and Forums from the Gmail Move dropdown.
 
-(web store links coming soon)
+## Install options
+
+(Edge store link coming soon)
+
+⚡️ [Install from the Chome Web Store](https://chromewebstore.google.com/detail/remove-gmail-categories/fjjebdfjfdijjpkmjbmcehlhhfldbloe)
 
 ## How to use without any of that webstore nonsense
 
