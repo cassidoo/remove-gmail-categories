@@ -8,7 +8,7 @@ A free browser extension that removes the labels Social, Promotions, Updates, an
 
 ## Install options
 
-⚡️ [Install from the Edge Add-ons store](https://microsoftedge.microsoft.com/addons/detail/remove-gmail-categories/kenkmbjcidcjpgachijmoenkahdhdhao)
+⚡️ [Install from the Edge Add-ons store](https://microsoftedge.microsoft.com/addons/detail/remove-gmail-categories/kenkmbjcidcjpgachijmoenkahdhdhao)  
 ⚡️ [Install from the Chome Web Store](https://chromewebstore.google.com/detail/remove-gmail-categories/fjjebdfjfdijjpkmjbmcehlhhfldbloe)
 
 ## How to use without any of that webstore nonsense
